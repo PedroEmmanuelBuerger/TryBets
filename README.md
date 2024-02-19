@@ -18,9 +18,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Modelo MSC
 
 ## aprendizado
-União de todo conhecimento de POO Adquirido pelo curso, junto com microserviços para enviar requesições do backend(POST,PATCH,GET...)
-Gerenciamento de funcionalidades diferentes para cada parte do código, somado com a organização das mesmas.
-Utilização do metodo API Restful com c#.
+- União de todo conhecimento de POO Adquirido pelo curso, junto com microserviços para enviar requesições do backend(POST,PATCH,GET...)
+- Gerenciamento de funcionalidades diferentes para cada parte do código, somado com a organização das mesmas.
+- Utilização do metodo API Restful com c#.
 
 ## Conclusão
 O TryBets é uma aplicação de apostas esportivas que demonstra conceitos fundamentais de desenvolvimento backend, desde a configuração do ambiente até a implementação de funcionalidades essenciais para um sistema de apostas online. Este projeto proporcionou uma valiosa oportunidade de aprender e aplicar práticas modernas de desenvolvimento de software.
