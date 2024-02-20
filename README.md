@@ -1,12 +1,12 @@
 ## TryBets
-TryBets é um projeto que consiste no backend de um site de apostas. Você, neste projeto, deverá obter o software monolítico, que está pronto, e dividí-lo em microsserviços com determinadas especificidades
+TryBets é um projeto que consiste no backend de um site de apostas. o projeto se baseia em microsserviços com determinadas especificidades, como criação de eventos esportivos, relização de apostas, entre outros.
 
 ## Funcionalidades
 O projeto possui as seguintes funcionalidades:
 
-Criação de eventos esportivos: permite adicionar novos eventos esportivos para os quais os usuários podem fazer apostas.
-Realização de apostas: possibilita aos usuários fazer apostas em eventos esportivos, escolhendo o resultado e o valor da aposta.
-Visualização de partidas. usuarios e apostas.
+- Criação de eventos esportivos: permite adicionar novos eventos esportivos para os quais os usuários podem fazer apostas.
+- Realização de apostas: possibilita aos usuários fazer apostas em eventos esportivos, escolhendo o resultado e o valor da aposta.
+- Visualização de partidas. usuarios e apostas.
 
 ## Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
