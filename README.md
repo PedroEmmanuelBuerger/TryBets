@@ -1,26 +1,33 @@
-## TryBets
-TryBets é um projeto que consiste no backend de um site de apostas. o projeto se baseia em microsserviços com determinadas especificidades, como criação de eventos esportivos, relização de apostas, entre outros.
+# TryBets
 
-## Funcionalidades
-O projeto possui as seguintes funcionalidades:
+TryBets is a project that consists of the backend of a betting website. The project is based on microservices with specific features, such as creating sports events, placing bets, and more.
 
-- Criação de eventos esportivos: permite adicionar novos eventos esportivos para os quais os usuários podem fazer apostas.
-- Realização de apostas: possibilita aos usuários fazer apostas em eventos esportivos, escolhendo o resultado e o valor da aposta.
-- Visualização de partidas. usuarios e apostas.
+## Features
 
-## Tecnologias Utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+The project includes the following features:
 
-- c#
-- dockerfile
-- BD(MYSQL)
-- POO
-- Modelo MSC
+- **Creation of Sports Events**: Allows adding new sports events where users can place bets.
+- **Placing Bets**: Enables users to place bets on sports events, choosing the outcome and the bet amount.
+- **Viewing Matches, Users, and Bets**: Allows users to view match details, user information, and their placed bets.
 
-## aprendizado
-- União de todo conhecimento de POO Adquirido pelo curso, junto com microserviços para enviar requesições do backend(POST,PATCH,GET...)
-- Gerenciamento de funcionalidades diferentes para cada parte do código, somado com a organização das mesmas.
-- Utilização do metodo API Restful com c#.
+## Technologies Used
 
-## Conclusão
-O TryBets é uma aplicação de apostas esportivas que demonstra conceitos fundamentais de desenvolvimento backend, desde a configuração do ambiente até a implementação de funcionalidades essenciais para um sistema de apostas online. Este projeto proporcionou uma valiosa oportunidade de aprender e aplicar práticas modernas de desenvolvimento de software.
+The project was developed using the following technologies:
+
+- **C#**
+- **Dockerfile**
+- **Database (MYSQL)**
+- **OOP (Object-Oriented Programming)**
+- **MSC Model (Microservices Communication)**
+
+## Key Learnings
+
+The main learnings from this project include:
+
+- Combining all OOP knowledge acquired from the course with microservices to handle backend requests (POST, PATCH, GET, etc.).
+- Managing different functionalities for each part of the code, along with their organization.
+- Using the RESTful API method with C#.
+
+## Conclusion
+
+TryBets is a sports betting application that demonstrates fundamental backend development concepts, from setting up the environment to implementing essential features for an online betting system. This project provided a valuable opportunity to learn and apply modern software development practices.
